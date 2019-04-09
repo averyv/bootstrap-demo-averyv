@@ -1,0 +1,5 @@
+Avery Vanacore
+Bootstrap Demo Reflection:
+
+1. I think I will want to use Bootstrap in the future if I am trying to quickly code up a website (ex. for a Hackathon) or whenever I want to design a relatively basic website that doesn’t need much customization.  I won’t want to use it when I want a lot of freedom customizing the layout of the page, as the Bootstrap grid system will restrict my ability to do so.
+2.  One issue/downside you could run into by using Bootstrap in industry is that many other websites rely on Bootstrap, so it will be more challenging to make your site stand out.  Additionally, some Bootstrap elements rely on JS, so having to load the required JS files each time could increase the load time of your site.
